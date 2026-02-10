@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Hark Dhami
 
-<!--
-**hark07/hark07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack MERN Developer  
+☕ Java & DSA Learner  
+🚀 Building real-world web apps  
+🌱 Currently learning Advanced React & System Design  
+📫 Email: codeharish07@gmail.com  
 
-Here are some ideas to get you started:
+## Tech Stack
+- Frontend: React, Tailwind, Bootstrap
+- Backend: Node.js, Express
+- Database: MongoDB, Mongoose
+- Languages: Java, JavaScript, C++
+- Tools: Git, Postman, Vite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 E-commerce Website (MERN)
+🔹 Book Store Management System
+🔹 Grocery Store App
+🔹 Job Portal
+
+## Goals
+Crack top tech companies & work as Full Stack Developer
