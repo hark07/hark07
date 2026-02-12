@@ -6,30 +6,24 @@
 🧠 Currently learning Advanced React & System Design  
 📧 Email: harkdhami08@gmail.com  
 
+---
+
 ## 🛠 Tech Stack
 
 ### Frontend
-- React.js
-- Tailwind CSS
-- Bootstrap
+- React.js, Tailwind CSS, Bootstrap
 
 ### Backend
-- Node.js
-- Express.js
+- Node.js, Express.js
 
 ### Database
-- MongoDB
-- Mongoose
+- MongoDB, Mongoose, MySQL
 
 ### Languages
-- Java
-- JavaScript
-- C++
+- Java, JavaScript, C++, C
 
 ### Tools
-- Git & GitHub
-- Postman
-- Vite
+- Git & GitHub, Postman, Vite
 
 ---
 
