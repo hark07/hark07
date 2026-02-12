@@ -30,7 +30,7 @@
 ## 📂 Projects
 - 🛒 E-commerce Website (MERN)
 - 📚 Book Store Management System
-- 🛍 Grocery Store App
+- 🛍 Grocery Store App (MERN)
 - 💼 Job Portal
 
 ---
