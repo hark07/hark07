@@ -1,23 +1,54 @@
 # Hi 👋 I'm Hark Dhami
 
 💻 Full Stack MERN Developer  
-☕ Java & DSA Learner  
-🚀 Building real-world web apps  
-🌱 Currently learning Advanced React & System Design  
-📫 Email: codeharish07@gmail.com  
+📚 Java & DSA Learner  
+🚀 Building real-world web applications  
+🧠 Currently learning Advanced React & System Design  
+📧 Email: harkdhami08@gmail.com  
 
-## Tech Stack
-- Frontend: React, Tailwind, Bootstrap
-- Backend: Node.js, Express
-- Database: MongoDB, Mongoose
-- Languages: Java, JavaScript, C++
-- Tools: Git, Postman, Vite
+## 🛠 Tech Stack
 
-## Projects
-🔹 E-commerce Website (MERN)
-🔹 Book Store Management System
-🔹 Grocery Store App
-🔹 Job Portal
+### Frontend
+- React.js
+- Tailwind CSS
+- Bootstrap
 
-## Goals
-Crack top tech companies & work as Full Stack Developer
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- Mongoose
+
+### Languages
+- Java
+- JavaScript
+- C++
+
+### Tools
+- Git & GitHub
+- Postman
+- Vite
+
+---
+
+## 📂 Projects
+- 🛒 E-commerce Website (MERN)
+- 📚 Book Store Management System
+- 🛍 Grocery Store App
+- 💼 Job Portal
+
+---
+
+## 🎯 Goals
+- Crack top tech companies (Google, Amazon, etc.)
+- Become a professional Full Stack Developer
+- Master DSA & System Design
+
+---
+
+## 🌍 Connect with me
+- 📧 harkdhami08@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/harkdhami/
+- 🐙 GitHub: https://github.com/hark07
