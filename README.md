@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Hark Dhami</h1>
-<h3 align="center">🚀 Full Stack Java Developer | ☕ Java DSA Learner | 🇳🇵 Nepal</h3>
+<h3 align="center">🚀 Full Stack MERN Developer | ☕ Java DSA Learner | 🇳🇵 Nepal</h3>
 
 <p align="center">
   <a href="mailto:harkdhami08@gmail.com">
